@@ -6,8 +6,4 @@ SiriControl is an open source framework designed with developers in mind. It pro
 - It is beginner friendly with minimal setup required – I have provided step by step instructions on how to set it up. It is written in python which is quite an easy language to pick up.
 - You will get the power of Siri’s fantastic speech recognition capabilities, and will be able to use it from anywhere in the world, as long as your device has an internet connection.
 
-Overall, you will be able to add accurate voice controlled capabilities to any project for free. Convinced that SiriControl is awesome?
-
-Well, here is the link on how to get started: https://thereallycoolstuff.wordpress.com/siricontrol-a-voice-control-system/
-
 NOTE: This works on python 2.7 and above
